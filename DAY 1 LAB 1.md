@@ -43,14 +43,6 @@ console.log("Roman Larionov");
 
 
 
-<u>Picture from Replit:</u>
-
-![Screenshot](C:\Users\pcsav\OneDrive\Documents\GA\GA Immersive Bootcamp\Day 1 - Oct 31\LAB 1\Screenshot.png)
-
-
-
-
-
 <u>Part 2</u> Boolean Expressions
 
 By just looking at the following expressions, determine in your mind whether or not each will evaluate to **true** or **false**
